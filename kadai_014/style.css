@@ -1,19 +1,15 @@
 body {
   font-family: "Arial", "Meiryo", sans-serif;
 }
-h2 {
-  font-family: "Josefin Sans";
-}
 #heading {
-  color: skyblue;
+  color: rgb(255, 192, 203) ;
 }
 #second-paragraph {
-  color: rgb(255, 192, 203) ;
+  color: skyblue;
 }
 h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   font-size: 2.0rem;
   letter-spacing: 1.2em;
@@ -32,4 +28,10 @@ hr{
 }
 #parent {
   font-weight:bold;
+}
+.A1{
+  color: skyblue;
+}
+.A2{
+  color: rgb(255, 192, 203) ;
 }
